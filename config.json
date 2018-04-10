@@ -1,6 +1,6 @@
 {
-    "coin": "monero",
-    "symbol": "XMR",
+    "coin": "uaicoin",
+    "symbol": "UAI",
 
     "logging": {
         "files": {
@@ -103,7 +103,7 @@
 
     "daemon": {
         "host": "127.0.0.1",
-        "port": 18081
+        "port": 21898
     },
 
     "wallet": {
